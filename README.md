@@ -1,2 +1,2 @@
-# javascript-async-await-promise
-belajar konsep asynchronous javascript
+# belajar javascript
+belajar konsep javascript
